@@ -1,0 +1,67 @@
+---
+温馨♂提示
+1.记得查看通道 单通道需要一个插槽 双通道8Gx2会占用两个插槽 插在2 4槽
+2.记得看你主板最高支持的频率，ddr几（这里大多都是ddr4笔记本的），供电，最大内存等等支持
+3.内存条可以插嘴里，脑补画面
+4.内存条插槽防呆不防傻，记得安装方式
+5.有些amd的u可能需要专用内存
+---
+顺序  品牌 通道 频率 链接
+1 金士顿 双通道8Gx2 3200 https://item.m.jd.com/product/2210077.html?_fd=jdm&price=499.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=10&csid=9bcf825b3c56db70db4af82571673736_1604308791176_1_1604308791177&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+2 三星 单通道16G 3200 https://item.m.jd.com/product/68298021854.html?_fd=jdm&price=428.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=12&csid=9bcf825b3c56db70db4af82571673736_1604308791176_1_1604308791177&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+3 海力士 单通道16G 3200 https://item.m.jd.com/product/72476770806.html?extension_id=eyJhZCI6IjEyMjMiLCJjaCI6IjIiLCJza3UiOiI3MjQ3Njc3MDgwNiIsInRzIjoiMTYwNDMwOTE3MCIsInVuaXFpZCI6IntcImNsaWNrX2lkXCI6XCI5YjY0OGFmYy1kNzc4LTQ2ZjQtOTE1ZC1lZjFkZmEzY2FkOWZcIixcIm1hdGVyaWFsX2lkXCI6XCIyNzQ4MTI4MzA0XCIsXCJwb3NfaWRcIjpcIjEyMjNcIixcInNpZFwiOlwiZGEyYmUwYjctOTVjZi00ODQzLWFhNWItYzM5YzA4NDQ0NTExXCJ9In0=&jd_pop=9b648afc-d778-46f4-915d-ef1dfa3cad9f&abt=0
+4 cuso（比较小众，速度比较不好，看看上面的或者下面的吧） 单通道16G 2666 https://item.m.jd.com/product/64625749624.html?_fd=jdm&price=279.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=23&csid=9bcf825b3c56db70db4af82571673736_1604308862370_2_1604308864330&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+5 联想 单通道16GB 3200 https://item.m.jd.com/product/100003233698.html?_fd=jdm&price=399.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=27&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+6 金士顿（这个是16GB单条 比上面的不怎么好点 推荐第一个 但是如果你没地方了 那就算了） 单通道16GB 3200 https://item.m.jd.com/product/100012311226.html?_fd=jdm&price=499.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=32&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+7 英睿达 单通道 2666 https://item.m.jd.com/product/100005457906.html?_fd=jdm&price=369.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=33&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+8 芝奇 单通道16GB 3200 https://item.m.jd.com/product/100008129801.html?_fd=jdm&price=399.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=35&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+9 KLEVV 单通道16GB 3200 https://item.m.jd.com/product/72230337511.html?_fd=jdm&price=409.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=38&csid=9bcf825b3c56db70db4af82571673736_1604309585947_4_1604309588597&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+10 USCORSAIR 双通道8Gx2 2666 https://item.m.jd.com/product/100006470158.html?_fd=jdm&price=519.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=41&csid=9bcf825b3c56db70db4af82571673736_1604309585947_4_1604309588597&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+
+以下就是分类内容 不用麻烦找的那种 希望你一开始就看见
+品牌分类
+ 金士顿
+1 金士顿 双通道8Gx2 3200 https://item.m.jd.com/product/2210077.html?_fd=jdm&price=499.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=10&csid=9bcf825b3c56db70db4af82571673736_1604308791176_1_1604308791177&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+6 金士顿（这个是16GB单条 比上面的不怎么好点 推荐第一个 但是如果你没地方了 那就算了） 单通道16GB 3200 https://item.m.jd.com/product/100012311226.html?_fd=jdm&price=499.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=32&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+ 三星
+2 三星 单通道16G 3200 https://item.m.jd.com/product/68298021854.html?_fd=jdm&price=428.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=12&csid=9bcf825b3c56db70db4af82571673736_1604308791176_1_1604308791177&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+ 海力士
+3 海力士 单通道16G 3200 https://item.m.jd.com/product/72476770806.html?extension_id=eyJhZCI6IjEyMjMiLCJjaCI6IjIiLCJza3UiOiI3MjQ3Njc3MDgwNiIsInRzIjoiMTYwNDMwOTE3MCIsInVuaXFpZCI6IntcImNsaWNrX2lkXCI6XCI5YjY0OGFmYy1kNzc4LTQ2ZjQtOTE1ZC1lZjFkZmEzY2FkOWZcIixcIm1hdGVyaWFsX2lkXCI6XCIyNzQ4MTI4MzA0XCIsXCJwb3NfaWRcIjpcIjEyMjNcIixcInNpZFwiOlwiZGEyYmUwYjctOTVjZi00ODQzLWFhNWItYzM5YzA4NDQ0NTExXCJ9In0=&jd_pop=9b648afc-d778-46f4-915d-ef1dfa3cad9f&abt=0
+ cuso（不推荐 我也不知道为啥要打这个）
+4 cuso（比较小众，速度比较不好，看看上面的或者下面的吧） 单通道16G 2666 https://item.m.jd.com/product/64625749624.html?_fd=jdm&price=279.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=23&csid=9bcf825b3c56db70db4af82571673736_1604308862370_2_1604308864330&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+ 联想
+5 联想 单通道16GB 3200 https://item.m.jd.com/product/100003233698.html?_fd=jdm&price=399.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=27&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+ 英睿达
+7 英睿达 单通道 2666 https://item.m.jd.com/product/100005457906.html?_fd=jdm&price=369.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=33&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+ 芝奇
+8 芝奇 单通道16GB 3200 https://item.m.jd.com/product/100008129801.html?_fd=jdm&price=399.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=35&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+ KLEVV
+9 KLEVV 单通道16GB 3200 https://item.m.jd.com/product/72230337511.html?_fd=jdm&price=409.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=38&csid=9bcf825b3c56db70db4af82571673736_1604309585947_4_1604309588597&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+ USCORSAIR
+10 USCORSAIR 双通道8Gx2 2666 https://item.m.jd.com/product/100006470158.html?_fd=jdm&price=519.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=41&csid=9bcf825b3c56db70db4af82571673736_1604309585947_4_1604309588597&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+频率分类
+ 3200
+1 金士顿 双通道8Gx2 3200 https://item.m.jd.com/product/2210077.html?_fd=jdm&price=499.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=10&csid=9bcf825b3c56db70db4af82571673736_1604308791176_1_1604308791177&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+2 三星 单通道16G 3200 https://item.m.jd.com/product/68298021854.html?_fd=jdm&price=428.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=12&csid=9bcf825b3c56db70db4af82571673736_1604308791176_1_1604308791177&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+3 海力士 单通道16G 3200 https://item.m.jd.com/product/72476770806.html?extension_id=eyJhZCI6IjEyMjMiLCJjaCI6IjIiLCJza3UiOiI3MjQ3Njc3MDgwNiIsInRzIjoiMTYwNDMwOTE3MCIsInVuaXFpZCI6IntcImNsaWNrX2lkXCI6XCI5YjY0OGFmYy1kNzc4LTQ2ZjQtOTE1ZC1lZjFkZmEzY2FkOWZcIixcIm1hdGVyaWFsX2lkXCI6XCIyNzQ4MTI4MzA0XCIsXCJwb3NfaWRcIjpcIjEyMjNcIixcInNpZFwiOlwiZGEyYmUwYjctOTVjZi00ODQzLWFhNWItYzM5YzA4NDQ0NTExXCJ9In0=&jd_pop=9b648afc-d778-46f4-915d-ef1dfa3cad9f&abt=0
+4 cuso（比较小众，速度比较不好，看看上面的或者下面的吧） 单通道16G 2666 https://item.m.jd.com/product/64625749624.html?_fd=jdm&price=279.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=23&csid=9bcf825b3c56db70db4af82571673736_1604308862370_2_1604308864330&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+5 联想 单通道16GB 3200 https://item.m.jd.com/product/100003233698.html?_fd=jdm&price=399.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=27&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+6 金士顿（这个是16GB单条 比上面的不怎么好点 推荐第一个 但是如果你没地方了 那就算了） 单通道16GB 3200 https://item.m.jd.com/product/100012311226.html?_fd=jdm&price=499.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=32&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+8 芝奇 单通道16GB 3200 https://item.m.jd.com/product/100008129801.html?_fd=jdm&price=399.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=35&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+9 KLEVV 单通道16GB 3200 https://item.m.jd.com/product/72230337511.html?_fd=jdm&price=409.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=38&csid=9bcf825b3c56db70db4af82571673736_1604309585947_4_1604309588597&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+ 2666
+7 英睿达 单通道 2666 https://item.m.jd.com/product/100005457906.html?_fd=jdm&price=369.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=33&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+10 USCORSAIR 双通道8Gx2 2666 https://item.m.jd.com/product/100006470158.html?_fd=jdm&price=519.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=41&csid=9bcf825b3c56db70db4af82571673736_1604309585947_4_1604309588597&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+单双通道分类
+ 双通道8Gx2（推荐）
+1 金士顿 双通道8Gx2 3200 https://item.m.jd.com/product/2210077.html?_fd=jdm&price=499.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=10&csid=9bcf825b3c56db70db4af82571673736_1604308791176_1_1604308791177&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+10 USCORSAIR 双通道8Gx2 2666 https://item.m.jd.com/product/100006470158.html?_fd=jdm&price=519.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=41&csid=9bcf825b3c56db70db4af82571673736_1604309585947_4_1604309588597&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+ 单通道16G
+2 三星 单通道16G 3200 https://item.m.jd.com/product/68298021854.html?_fd=jdm&price=428.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=12&csid=9bcf825b3c56db70db4af82571673736_1604308791176_1_1604308791177&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+3 海力士 单通道16G 3200 https://item.m.jd.com/product/72476770806.html?extension_id=eyJhZCI6IjEyMjMiLCJjaCI6IjIiLCJza3UiOiI3MjQ3Njc3MDgwNiIsInRzIjoiMTYwNDMwOTE3MCIsInVuaXFpZCI6IntcImNsaWNrX2lkXCI6XCI5YjY0OGFmYy1kNzc4LTQ2ZjQtOTE1ZC1lZjFkZmEzY2FkOWZcIixcIm1hdGVyaWFsX2lkXCI6XCIyNzQ4MTI4MzA0XCIsXCJwb3NfaWRcIjpcIjEyMjNcIixcInNpZFwiOlwiZGEyYmUwYjctOTVjZi00ODQzLWFhNWItYzM5YzA4NDQ0NTExXCJ9In0=&jd_pop=9b648afc-d778-46f4-915d-ef1dfa3cad9f&abt=0
+4 cuso（比较小众，速度比较不好，看看上面的或者下面的吧） 单通道16G 2666 https://item.m.jd.com/product/64625749624.html?_fd=jdm&price=279.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=23&csid=9bcf825b3c56db70db4af82571673736_1604308862370_2_1604308864330&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+5 联想 单通道16GB 3200 https://item.m.jd.com/product/100003233698.html?_fd=jdm&price=399.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=27&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+6 金士顿（这个是16GB单条 比上面的不怎么好点 推荐第一个 但是如果你没地方了 那就算了） 单通道16GB 3200 https://item.m.jd.com/product/100012311226.html?_fd=jdm&price=499.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=32&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+7 英睿达 单通道 2666 https://item.m.jd.com/product/100005457906.html?_fd=jdm&price=369.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=33&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+8 芝奇 单通道16GB 3200 https://item.m.jd.com/product/100008129801.html?_fd=jdm&price=399.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=35&csid=9bcf825b3c56db70db4af82571673736_1604309355542_3_1604309357965&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
+9 KLEVV 单通道16GB 3200 https://item.m.jd.com/product/72230337511.html?_fd=jdm&price=409.00&fs=1&sceneval=2&jxsid=16043079910636874665&pos=38&csid=9bcf825b3c56db70db4af82571673736_1604309585947_4_1604309588597&ss_symbol=10&ss_mtest=shop_entrance_t3&key=ddr4
